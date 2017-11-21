@@ -12,5 +12,3 @@ EXPOSE 3307
    
 CMD ["/usr/bin/mysqld_safe"]
 
-
-
