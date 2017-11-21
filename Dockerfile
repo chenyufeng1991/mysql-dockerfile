@@ -1,4 +1,4 @@
-FROM centos  
+FROM centos:latest  
 MAINTAINER chenyufeng "yufengcode@gmail.com"  
    
 RUN yum install -y mysql-server mysql  
